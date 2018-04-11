@@ -1,0 +1,16 @@
+dob,ima_posao,ima_kucu,kreditni_status,kredit_odobren
+mlad,ne,ne,loš,ne
+mlad,ne,ne,dobar,ne
+mlad,da,ne,dobar,da
+mlad,da,da,loš,da
+mlad,ne,ne,loš,ne
+srednje_g,ne,ne,loš,ne
+srednje_g,ne,ne,dobar,ne
+srednje_g,da,da,dobar,da
+srednje_g,ne,da,izvrstan,da
+srednje_g,ne,da,izvrstan,da
+stariji,ne,da,izvrstan,da
+stariji,ne,da,dobar,da
+stariji,da,ne,loš,da
+stariji,da,ne,izvrstan,da
+stariji,ne,ne,loš,ne
